@@ -24,7 +24,7 @@
         <version>6.5.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>openam-scope-sample</artifactId>
+    <artifactId>ParameterizedScopeValidator</artifactId>
 
     <repositories>
       <repository>

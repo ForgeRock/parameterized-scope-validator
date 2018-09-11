@@ -72,7 +72,7 @@ import java.util.ArrayList;
  *
  * </ul>
  */
-public class CustomScopeValidator implements ScopeValidator {
+public class ParameterizedScopeValidator implements ScopeValidator {
 
     // Assumption: List of allowed scopes is pairwise unmatchable
 
