@@ -1,4 +1,4 @@
-# openam-scope-sample
+# Parameterized Scope Validator
 
 This is one of the ForgeRock Community Projects.
 For details, see <https://stash.forgerock.org/projects/COM/repos/about-these-projects/browse>.
